@@ -1,0 +1,3 @@
+export const GET_LOAN_REQUEST = "GET_LOAN_REQUEST";
+export const GET_LOAN_SUCCESS = "GET_LOAN_SUCCESS";
+export const GET_LOAN_FAIL = "GET_LOAN_FAIL";
